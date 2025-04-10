@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Lab-report-Criteria-B-MYP/static/css/main.e6c13ad2.css",
+    "main.js": "/Lab-report-Criteria-B-MYP/static/js/main.20563b93.js",
+    "index.html": "/Lab-report-Criteria-B-MYP/index.html",
+    "main.e6c13ad2.css.map": "/Lab-report-Criteria-B-MYP/static/css/main.e6c13ad2.css.map",
+    "main.20563b93.js.map": "/Lab-report-Criteria-B-MYP/static/js/main.20563b93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.20563b93.js"
+  ]
+}
